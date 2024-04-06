@@ -1,0 +1,13 @@
+.containerContacts {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.itemsContact {
+  list-style: square;
+  margin: 0;
+  padding-left: 20px;
+}
+.titleContact {
+  margin: 0;
+}

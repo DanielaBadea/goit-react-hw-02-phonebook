@@ -1,0 +1,21 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+.labelName,
+.labelPhone {
+  font-weight: 600;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+.formInput {
+  padding: 10px;
+  border: 1px solid #c5c5c5;
+}
+
+.btnSubmit {
+  padding: 10px;
+  border: none;
+}
